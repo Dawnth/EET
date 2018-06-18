@@ -1,0 +1,53 @@
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\bin\Debug\EBCS.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\bin\Debug\EBCS.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.About.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.Form1.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.MyHorizontal.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.MyTextBoxNUM.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.MyVertical.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.Properties.Resources.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EET.csproj.GenerateResource.Cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EBCS\obj\Debug\EBCS.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\bin\Debug\EET.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\bin\Debug\EET.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.About.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.Form1.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.HelpFile.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.MyHorizontal.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.MyTextBoxNUM.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.MyVertical.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.Properties.Resources.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET 网站用界面\EET\obj\Debug\EET.csproj.GenerateResource.Cache
+D:\E_BIKE\EET\codes\EET98998\EET\obj\Debug\EET.exe
+D:\E_BIKE\EET\codes\EET98998\EET\obj\Debug\EET.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\bin\Debug\EET.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\bin\Debug\EET.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.About.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.Form1.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.HelpFile.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.MyHorizontal.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.MyTextBoxNUM.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.MyVertical.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.Properties.Resources.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.csproj.GenerateResource.Cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EET\EET\obj\Debug\EET.pdb
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.exe
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.pdb
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\bin\Debug\EET.exe
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\bin\Debug\EET.pdb
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.About.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.Form1.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.HelpFile.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.MyHorizontal.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.MyTextBoxNUM.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.MyVertical.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.Properties.Resources.resources
+C:\Users\dongchen\Documents\VCS Projects\EET\EET\obj\Debug\EET.csproj.GenerateResource.Cache

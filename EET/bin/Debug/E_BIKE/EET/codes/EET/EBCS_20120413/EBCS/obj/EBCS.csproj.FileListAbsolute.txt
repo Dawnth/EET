@@ -1,0 +1,12 @@
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\bin\Debug\EBCS.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\bin\Debug\EBCS.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.About.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.Form1.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.MyHorizontal.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.MyTextBoxNUM.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.MyVertical.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.Properties.Resources.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.csproj.GenerateResource.Cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EBCS\EBCS\obj\Debug\EBCS.pdb

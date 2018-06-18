@@ -1,0 +1,8 @@
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\bin\Debug\EEA.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\bin\Debug\EEA.pdb
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\EEA.Form1.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\EEA.Properties.Resources.resources
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\EEA.csproj.GenerateResource.Cache
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\EEA.exe
+C:\Documents and Settings\chend\My Documents\Visual Studio 2005\Projects\EEA\EEA\obj\Debug\EEA.pdb
